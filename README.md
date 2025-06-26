@@ -8,13 +8,13 @@
   - [What is this?](#what-is-this)
   - [Why is this? 🐛](#why-is-this-)
   - [Improvements 📈](#improvements-)
-  - [Variants 🎨](#variants-)
-        - [Model A:](#model-a)
-        - [Model B:](#model-b)
-        - [Model C:](#model-c)
-  - [Remarks ⚠️](#remarks-️)
-        - [Notes on 3D Printing:](#notes-on-3d-printing)
-        - [Example Photos 📷](#example-photos-)
+  - [Variants 🎨](#variants-)<br>
+        - [Model A:](#model-a)<br>
+        - [Model B:](#model-b)<br>
+        - [Model C:](#model-c)<br>
+  - [Remarks ⚠️](#remarks-️)<br>
+        - [Notes on 3D Printing:](#notes-on-3d-printing)<br>
+        - [Example Photos 📷](#example-photos-)<br>
   - [Next Steps👷](#next-steps)
   - [Thanks to, 🙌](#thanks-to-)
   - [License 📜](#license-)
