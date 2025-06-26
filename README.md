@@ -74,8 +74,8 @@ A key post processing step is sanding the power button lightly on the front case
 - A scroll wheel? 🛞
 
 ## Thanks to, 🙌
-ClockworkPi forum users:
-hispoot: for getting the Lyra working on the Picocalc.
+ClockworkPi forum users:<br>
+hispoot: for getting the Lyra working on the Picocalc.<br>
 markbirss: For getting Ubuntu 24.04 going on the Lyra.<br>
 & to ClockworkPi of course for providing a CAD model to work from not to mention making cool hardware devices!<br>
 
