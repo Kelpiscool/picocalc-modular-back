@@ -9,14 +9,14 @@
   - [What is this?](#what-is-this)
   - [Why is this? 🐛](#why-is-this-)
   - [Improvements 📈](#improvements-)
-  - [Variants 🎨](#variants-)
-        - [Model A:](#model-a)
-        - [Model B:](#model-b)
-        - [Model C:](#model-c)
-        - [Model D:](#model-d)
-  - [Remarks ⚠️](#remarks-️)
-        - [Notes on 3D Printing:](#notes-on-3d-printing)
-        - [Example Photos 📷](#example-photos-)
+  - [Variants 🎨](#variants-)<br>
+        - [Model A:](#model-a)<br>
+        - [Model B:](#model-b)<br>
+        - [Model C:](#model-c)<br>
+        - [Model D:](#model-d)<br>
+  - [Remarks ⚠️](#remarks-️)<br>
+        - [Notes on 3D Printing:](#notes-on-3d-printing)<br>
+        - [Example Photos 📷](#example-photos-)<br>
   - [Next Steps👷](#next-steps)
   - [Thanks to, 🙌](#thanks-to-)
   - [License 📜](#license-)
@@ -69,12 +69,12 @@ You will already have the $\color{green}\small{\textsf{green}}$ fasteners but th
 
 Note: This back like the OEM model does not allow easy access to the inside of the device. The threads will also wear and fail after a few assembly and disassembly cycles but this is a great way to test if this back is right for you! 
 
-Links straight to vendors and models ready for Cura or PrusaSlicer.
-[Model D Back link](https://github.com/Kelpiscool/picocalc-modular-back/blob/main/models/stl/Custom_back_v.4_model_D.stl)
-[Sunstar vent backplate link](https://github.com/Kelpiscool/picocalc-modular-back/blob/main/models/stl/backplate_v.3_sunstar_vent.stl)
-Possible vendors for fasteners depending on location.
-[If you're stateside🗽](https://www.mcmaster.com/91292A112/)
-[If you're global 🌏](https://www.aliexpress.us/item/3256803993220034.html) (choose Size: M3, Length: 8 mm)
+Links straight to vendors and models ready for Cura or PrusaSlicer.<br>
+[Model D Back link](https://github.com/Kelpiscool/picocalc-modular-back/blob/main/models/stl/Custom_back_v.4_model_D.stl)<br>
+[Sunstar vent backplate link](https://github.com/Kelpiscool/picocalc-modular-back/blob/main/models/stl/backplate_v.3_sunstar_vent.stl)<br>
+Possible vendors for fasteners depending on location.<br>
+[If you're stateside (McMaster-Carr)🗽](https://www.mcmaster.com/91292A112/)<br>
+[If you're global (AliExpress) 🌏](https://www.aliexpress.us/item/3256803993220034.html) (choose Size: M3, Length: 8 mm)<br>
 
 ## Remarks ⚠️
 All parts are offered in either a .step file for easy ingestion into CAD programs and workflows. They are also offered in a .stl file made for direct import into a slicer.
