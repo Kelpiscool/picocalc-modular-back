@@ -65,7 +65,7 @@ Similar to Model B but with added corner bumpers to improve durability of device
 
 This is a quick to get going model that has been simplified for easy use. No antenna cutouts, no heat set inserts, only self tapping holes (go easy when driving the fasteners home!). 
 
-You will already have the $\color{green}\small{\textsf{green}}$ fasteners but this model still needs an extra 7 M3 fasteners or *5 if you still have the two extra included with the PicoCalc* highlighted in $\color{#F85F11}\small{\textsf{orange}}$.  M3x8 fasteners are recommended however M3x6 will also work with less thread engagement. The $\color{#daa520}\small{\textsf{yellow}}$ M2 fastener is also completely optional and only needed if using a daughter card.
+You will already have the green 🟩 fasteners but this model still needs an extra 7 M3 fasteners or *5 if you still have the two extra included with the PicoCalc* highlighted in orange 🟧.  M3x8 fasteners are recommended however M3x6 will also work with less thread engagement. The yellow 🟨 M2 fastener is also completely optional and only needed if using a daughter card.
 
 Note: This back like the OEM model does not allow easy access to the inside of the device. The threads will also wear and fail after a few assembly and disassembly cycles but this is a great way to test if this back is right for you! 
 
