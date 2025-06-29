@@ -1,4 +1,4 @@
-Bill Of Materials,,,,,
+﻿Bill Of Materials,,,,,
 Kelpiscool,VI/MMXXIV,,,,
 picocalc-modular-back,rev.1b,,,,
 ,,,,,
@@ -11,6 +11,7 @@ Model B,3d_print,Custom_back_v.4_model_B,https://github.com/Kelpiscool/Picocalc_
 ,Hardware,DIN912 M3x8,https://www.mcmaster.com/91292A112/,included with Picocalc/ subbed for 18-8 bolts in example photos,6
 ,Hardware,DIN7894 M3x8,https://www.mcmaster.com/92855A309/,"back cover holder, low profile screws",3
 ,Hardware,M3xL6xOD4 Heatset Inserts,https://www.aliexpress.us/item/3256805885174058.html,back cover hardpoints,3
+,Hardware,M2xL4xOD3 Heatset Inserts,https://www.aliexpress.us/item/3256805885174058.html,daughter card support,1
 ,Hardware,M3x8 Thumbscrew,https://www.mcmaster.com/96016A552-96016A817/,can be subbed for cap bolts but restricts access,4
 ,Electrical,Antenna_adapter,https://www.aliexpress.us/item/2255800662461908.html,SMA to UFL pigtails,2
 ,,,,,
@@ -20,6 +21,14 @@ Model C,3d_print,Custom_back_v.4_model_C,https://github.com/Kelpiscool/Picocalc_
 ,Hardware,DIN912 M3x8,https://www.mcmaster.com/91292A112/,included with Picocalc/ subbed for 18-8 bolts in example photos,6
 ,Hardware,DIN7894 M3x8,https://www.mcmaster.com/92855A309/,"back cover holder, low profile screws",3
 ,Hardware,M3xL6xOD4 Heatset Inserts,https://www.aliexpress.us/item/3256805885174058.html,back cover hardpoints,3
+,Hardware,M2xL4xOD3 Heatset Inserts,https://www.aliexpress.us/item/3256805885174058.html,daughter card support,1
 ,Hardware,M3x8 Thumbscrew,https://www.mcmaster.com/96016A552-96016A817/,can be subbed for cap bolts but restricts access,4
 ,Electrical,Antenna_adapter,https://www.aliexpress.us/item/2255800662461908.html,SMA to UFL pigtail,1
 ,Electrical,RT4MP_connector,https://www.rean-connectors.com/en/product/rt4mp-1,ruggedized USB,1
+,,,,,
+Model D,3d_print,Custom_back_v.4_model_D,https://github.com/Kelpiscool/Picocalc_case_back/models,,1
+,3d_print,backplate_v.3_sunstar_vent,https://github.com/Kelpiscool/Picocalc_case_back/models,,1
+,Hardware,DIN912 M3x8,https://www.mcmaster.com/91292A112/,included with Picocalc/ subbed for 18-8 bolts in example photos,6
+,Hardware,DIN912 M3x6 or M3x8,https://www.mcmaster.com/91292A112/,two extra bolts included with PicoCalc work but 5 more needed!,7
+,,alternate for above.,https://www.aliexpress.us/item/3256803993220034.html,Order Size: M3 Length: 8 mm,7
+,Electrical,Antenna_adapter,https://www.aliexpress.us/item/2255800662461908.html,SMA to UFL pigtail,2
