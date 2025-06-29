@@ -55,7 +55,7 @@ Optimized for the PicoCalc with a Luckfox Lyra.  The case is 3mm deeper and inco
 
 A landing feature was also incorporated by the 0.1" header pins for easy mounting of PCB addon cards with an M2 threaded insert for support.
 
-Thee back cover consists of a printed in-place live hinge rated for approximately 50–100 open/close cycles before material fatigue becomes an issue. Held down with M3 thumbscrews for easy access.
+The back cover consists of a printed in-place live hinge rated for approximately 50–100 open/close cycles before material fatigue becomes an issue. Held down with M3 thumbscrews for easy access.
 
 ##### Model C:
 Similar to Model B but with added corner bumpers to improve durability of device against hits.  Also replaces left antenna port with a TA4F style connector cutout for non-compliant but ruggedized USB output when using the Luckfox Lyra.  Model is meant to show extensibility and possibilities with this case back family.
